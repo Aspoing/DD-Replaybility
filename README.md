@@ -1,4 +1,4 @@
-# 🧙‍♂️ Online RPG Platform (Dungeons and Dragons
+# 🧙‍♂️ Online RPG Platform (Dungeons and Dragons)
 
 ## Description
 
